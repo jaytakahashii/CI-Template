@@ -1,1 +1,7 @@
-# Clang-Format-Check
+# CI-Template
+
+## Inputs
+
+## Outputs
+
+## Example Workflow
